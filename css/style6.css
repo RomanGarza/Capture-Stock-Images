@@ -377,7 +377,7 @@ nav.active,
 }
 
 .downloadbtn a {
-	color: white;
+  color: white;
 }
 
 /* back to top btn styling */
@@ -428,4 +428,3 @@ nav.active,
   border: none;
   border-radius: 8px;
 }
-
